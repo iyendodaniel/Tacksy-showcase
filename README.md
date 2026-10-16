@@ -15,9 +15,5 @@ A digital cork-board for planning content. Pin ideas, drag them from **Ideas →
 
 ## Tech stack
 Django · React + TypeScript · Zustand · Framer Motion · PostgreSQL (Neon)
-
-## Challenges and what I learned
-<!-- 2-3 points in your own words, e.g. managing drag-and-drop state with Zustand, syncing board order to the backend -->
-
 ---
 [All my work](https://github.com/iyendodaniel) · iyendodaniel4@gmail.com
